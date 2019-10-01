@@ -30,3 +30,13 @@ Brackets is built for web development and that's where it excels at out of the b
    Autofill of search field with text under caret (text has to be selected)  
    Show whitespace / end of lines / indentation guides / right margin  
    Selection to upper / lower case
+
+### Bracket vs Visual Studio Code vs Atom
+
+| IDE       | Pro          | Cons  |
+| ------------- |:-------------:| -----:|
+| Bracket                | right-aligned | $1600 |
+| Visual Studio Code     | centered      |   $12 |
+| Atom                   | are neat      |    $1 |
+
+
