@@ -45,6 +45,6 @@ Brackets is built for web development and that's where it excels at out of the b
 
 ```javascript
 <script type="text/javascript">  
-document.write("JavaScript is a simple language for javatpoint learners");  
+document.write("Brackets is compatible with JavaScript");  
 </script>  
 ```
