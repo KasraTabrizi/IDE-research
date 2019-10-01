@@ -1,6 +1,8 @@
 # Which IDE will I use
 ## Brackets
 
+> A modern, open source text editor that understands web design.
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg)
 
 ### Download Link
