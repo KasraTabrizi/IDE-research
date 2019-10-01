@@ -6,7 +6,7 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg)
 
 ### Download Link
-[Brackets](http://brackets.io/ "Brackets")
+*[Brackets](http://brackets.io/ "Brackets")
 
 ### Pros :smiley:
 
