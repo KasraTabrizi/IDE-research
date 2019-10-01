@@ -1,4 +1,4 @@
-# Which IDE will I use
+# Which _IDE_ will I use
 ## Brackets
 
 > A modern, open source text editor that understands web design.
@@ -6,12 +6,12 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg)
 
 ### Download Link
-*[Brackets](http://brackets.io/ "Brackets")
+[Brackets](http://brackets.io/ "Brackets")
 
 ### Pros :smiley:
 
 1. Built-in browser live-updating
-2. Brackets will automatically refresh the browser and load the latest saved version of a file open in the browser. This works with php as well. 
+2. ***Brackets*** will automatically refresh the browser and load the latest saved version of a file open in the browser. This works with php as well. 
 3. Editing a css will even highlight the tag that's currently being worked on. However, it only works with Chrome.
 4. Brackets is easy on memory usage and it starts up quickly.
 5. Brackets supports drag and drop of text, as well as multi / rectangular selection.
