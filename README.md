@@ -21,7 +21,7 @@ Though the website says there is an update available, the updater in Brackets ma
 Brackets is built for web development and that's where it excels at out of the box. Other languages that have a CodeMirror mode can be added as well (and language support plugins can be added>).
 
 3. Some gaps have to be filled by plugins, while these features should be built in. For example:
-...Jump to matching brace (bracket / parenthesis);
+***Jump to matching brace (bracket / parenthesis);
 ...Gutter selection of lines;
 ...Recall previous searches / replacements;
 ...Autofill of search field with text under caret (text has to be selected);
