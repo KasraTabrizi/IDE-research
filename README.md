@@ -43,7 +43,7 @@ Brackets is built for web development and that's where it excels at out of the b
 
 ### Code Block
 
-```
+```javascript
 <script type="text/javascript">  
 document.write("JavaScript is a simple language for javatpoint learners");  
 </script>  
