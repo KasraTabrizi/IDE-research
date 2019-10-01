@@ -1,8 +1,7 @@
 # Which IDE will I use
 ## Brackets
 
-Inline-style: 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg)
 
 ### Pros
 
