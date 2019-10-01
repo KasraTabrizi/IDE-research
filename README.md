@@ -5,7 +5,7 @@
 
 ### Download Link
 
-(http://brackets.io/ "Brackets")
+http://brackets.io/ "Brackets"
 
 ### Pros
 
