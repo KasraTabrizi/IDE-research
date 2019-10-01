@@ -19,19 +19,19 @@
 
 ### Cons :disappointed:
 
-* Problematic updater
+1. Problematic updater
 Though the website says there is an update available, the updater in Brackets may give you an error, resulting in you having to download updates manually.
 
-* Supports only web languages by default
+2. Supports only web languages by default
 Brackets is built for web development and that's where it excels at out of the box. Other languages that have a CodeMirror mode can be added as well (and language support plugins can be added).
 
-* Some gaps have to be filled by plugins, while these features should be built in.
-   For example: Jump to matching brace (bracket / parenthesis)  
-   Gutter selection of lines  
-   Recall previous searches / replacements  
-   Autofill of search field with text under caret (text has to be selected)  
-   Show whitespace / end of lines / indentation guides / right margin  
-   Selection to upper / lower case
+3. Some gaps have to be filled by plugins, while these features should be built in.
+    - For example: Jump to matching brace (bracket / parenthesis)  
+    - Gutter selection of lines  
+    - Recall previous searches / replacements  
+    - Autofill of search field with text under caret (text has to be selected)  
+    - Show whitespace / end of lines / indentation guides / right margin  
+    - Selection to upper / lower case
 
 ### Bracket vs Visual Studio Code vs Atom
 
