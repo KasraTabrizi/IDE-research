@@ -4,7 +4,7 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg)
 
 ### Download Link
-[I'm an inline-style link with title](http://brackets.io/ "Brackets")
+[Brackets](http://brackets.io/ "Brackets")
 
 ### Pros
 
