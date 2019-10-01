@@ -21,10 +21,10 @@
 Though the website says there is an update available, the updater in Brackets may give you an error, resulting in you having to download updates manually.
 
 2. Supports only web languages by default
-Brackets is built for web development and that's where it excels at out of the box. Other languages that have a CodeMirror mode can be added as well (and language support plugins can be added>).
+Brackets is built for web development and that's where it excels at out of the box. Other languages that have a CodeMirror mode can be added as well (and language support plugins can be added).
 
 3. Some gaps have to be filled by plugins, while these features should be built in. For example:
-  Jump to matching brace (bracket / parenthesis);
+⋅⋅1.Jump to matching brace (bracket / parenthesis);
   Gutter selection of lines;
   Recall previous searches / replacements;
   Autofill of search field with text under caret (text has to be selected);
