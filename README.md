@@ -1,27 +1,19 @@
-# Which IDE will I use</h1>
-## Visual Studio (free version; Pro), Codelite, brackets</h2>
+# Which IDE will I use
+## Brackets
+
+Inline-style: 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png)
+
+### Pros
+
+1. Built-in browser live-updating
+2. Brackets will automatically refresh the browser and load the latest saved version of a file open in the browser. This works with php as well. 
+3. Editing a css will even highlight the tag that's currently being worked on. However, it only works with Chrome.
+4. Brackets is easy on memory usage and it starts up quickly.
+5. Brackets supports drag and drop of text, as well as multi / rectangular selection.
 
 
-
-
-
-
-Brackets pros {
-
-Built-in browser live-updating
-Brackets will automatically refresh the browser and load the latest saved version of a file open in the browser. This works with php as well. 
-Editing a css will even highlight the tag that's currently being worked on. However, it only works with Chrome.
-
-- Lightweight
-Brackets is easy on memory usage and it starts up quickly.
-
-
-- Drag and drop support
-Brackets supports drag and drop of text, as well as multi / rectangular selection.
-
-}
-
-Cons {
+### Cons
 
 - Problematic updater
 Though the website says there is an update available, the updater in Brackets may give you an error, resulting in you having to download updates manually.
