@@ -33,10 +33,9 @@ Brackets is built for web development and that's where it excels at out of the b
 
 ### Bracket vs Visual Studio Code vs Atom
 
-| IDE       | Pro          | Cons  |
+| Brackets      | Visual Studio Code          | Atom  |
 | ------------- |:-------------:| -----:|
-| Bracket                | right-aligned | $1600 |
-| Visual Studio Code     | centered      |   $12 |
-| Atom                   | are neat      |    $1 |
+| Simple               | Complex | Simple |
+| Live Preview Function    | Intelli-sense      |  Auto Completion |
 
 
