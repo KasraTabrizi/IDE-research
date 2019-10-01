@@ -3,6 +3,10 @@
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg)
 
+### Download Link
+
+(http://brackets.io/ "Brackets")
+
 ### Pros
 
 1. Built-in browser live-updating
