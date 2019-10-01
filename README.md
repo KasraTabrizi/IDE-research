@@ -8,7 +8,7 @@
 ### Download Link
 [Brackets](http://brackets.io/ "Brackets")
 
-### Pros
+### Pros :smiley:
 
 1. Built-in browser live-updating
 2. Brackets will automatically refresh the browser and load the latest saved version of a file open in the browser. This works with php as well. 
@@ -17,7 +17,7 @@
 5. Brackets supports drag and drop of text, as well as multi / rectangular selection.
 
 
-### Cons
+### Cons :disappointed:
 
 1. Problematic updater
 Though the website says there is an update available, the updater in Brackets may give you an error, resulting in you having to download updates manually.
