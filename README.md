@@ -48,3 +48,9 @@ Brackets is built for web development and that's where it excels at out of the b
 document.write("Brackets is compatible with JavaScript");  
 </script>  
 ```
+
+### Number one reason for using brackets
+
+ * [x] Simple
+ * [ ] User Friendly
+ * [ ] Free
