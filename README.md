@@ -52,3 +52,4 @@ document.write("Brackets is compatible with JavaScript");
  * [x] Simple
  * [ ] User Friendly
  * [ ] Free
+ * [ ] OpenSource
